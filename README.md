@@ -1,6 +1,5 @@
 # LeetCode 算法学习
 
-  表头  | 表头
-  ------------- | -------------
- 单元格内容  | 单元格内容
- 单元格内容l  | 单元格内容
+ \#|Title|Solution|Difficulty
+ ---|---|---|---
+ 1|Two Sum|[TwoSum.java](https://github.com/Yinevg/LeetCode/blob/master/src/com/learn/easy/TwoSum.java)|
