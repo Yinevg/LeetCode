@@ -1,4 +1,4 @@
 # idea
-./Java/idea
-./Java/*.iml
-./Java/out/
+Java/.idea
+Java/*.iml
+Java/out/
