@@ -1,4 +1,4 @@
-# idea
-Java/.idea
+# idea、PyCharm
+*.idea
 Java/*.iml
 Java/out/
