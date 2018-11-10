@@ -6,3 +6,5 @@
 2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[AddTwoNumbers.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/AddTwoNumbers.java)||Medium
 3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[LongestSubstringWithoutRepeatingCharacters.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/LongestSubstringWithoutRepeatingCharacters.java)||Medium
 4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[MedianOfTwoSortedArrays.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/hard/MedianOfTwoSortedArrays.java)||Hard
+5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[LongestPalindromicSubstring.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/LongestPalindromicSubstring.java)||Medium
+
