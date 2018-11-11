@@ -8,6 +8,6 @@
 4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[MedianOfTwoSortedArrays.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/hard/MedianOfTwoSortedArrays.java)||Hard
 5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[LongestPalindromicSubstring.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/LongestPalindromicSubstring.java)||Medium
 6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|||Medium
-7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[TwoSum.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ReverseInteger.java)||Easy
+7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[ReverseInteger.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ReverseInteger.java)||Easy
 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|||Medium
 9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[PalindromeNumber.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/PalindromeNumber.java)||Easy
