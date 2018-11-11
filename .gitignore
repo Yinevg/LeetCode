@@ -1,4 +1,8 @@
-# idea、PyCharm
+# idea
 *.idea
-Java/*.iml
-Java/out/
+**/*.iml
+**/out/
+
+# PyCharm
+*.idea
+**/__pycache__/
