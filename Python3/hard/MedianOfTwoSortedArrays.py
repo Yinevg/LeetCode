@@ -9,7 +9,7 @@ class MedianOfTwoSortedArrays:
         len2 = len(nums2)
         resultLen = len1 + len2
         result = []
-        index1 = index2 = resultIndex = 0
+        index1 = index2 = 0
         while index1 < len1 and index2 < len2:
             if nums1[index1] < nums2[index2]:
                 result.append(nums1[index1])
