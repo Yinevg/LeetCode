@@ -11,5 +11,5 @@
 7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[ReverseInteger.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ReverseInteger.java)||Easy
 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|||Medium
 9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[PalindromeNumber.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/PalindromeNumber.java)|[PalindromeNumber.py](https://github.com/Yinevg/LeetCode/blob/master/Python3/easy/PalindromeNumber.py)|Easy
-20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[ValidParentheses.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ValidParentheses.java)||Easy
+20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[ValidParentheses.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ValidParentheses.java)|[ValidParentheses.py](https://github.com/Yinevg/LeetCode/blob/master/Python3/easy/ValidParentheses.py)|Easy
 21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[MergeTwoSortedLists.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/MergeTwoSortedLists.java)||Easy
