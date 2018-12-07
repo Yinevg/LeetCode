@@ -15,3 +15,4 @@
 20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[ValidParentheses.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ValidParentheses.java)|[ValidParentheses.py](https://github.com/Yinevg/LeetCode/blob/master/Python3/easy/ValidParentheses.py)|Easy
 21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[MergeTwoSortedLists.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/MergeTwoSortedLists.java)||Easy
 22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[GenerateParentheses.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/GenerateParentheses.java)||Medium
+24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[SwapNodesInPairs.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/SwapNodesInPairs.java)||Medium
