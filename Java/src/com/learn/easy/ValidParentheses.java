@@ -4,7 +4,6 @@ import java.util.Stack;
 
 /**
  * Created by Yinevg on 2018/11/14
- * https://leetcode.com/problems/valid-parentheses/description/
  * <p>
  * Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
  * An input string is valid if:

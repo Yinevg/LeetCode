@@ -2,7 +2,6 @@ package com.learn.easy;
 
 /**
  * Created by Yinevg on 2018/11/10
- * https://leetcode.com/problems/reverse-integer/description/
  * <p>
  * Given a 32-bit signed integer, reverse digits of an integer.
  * <p>

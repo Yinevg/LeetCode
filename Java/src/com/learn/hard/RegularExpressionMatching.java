@@ -2,7 +2,6 @@ package com.learn.hard;
 
 /**
  * Created by Yinevg on 2018/11/11
- * https://leetcode.com/problems/regular-expression-matching/description/
  * <p>
  * Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'.
  * '.' Matches any single character.

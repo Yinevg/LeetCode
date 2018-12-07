@@ -2,7 +2,6 @@ package com.learn.easy;
 
 /**
  * Created by Yinevg on 2018/11/10
- * https://leetcode.com/problems/palindrome-number/description/
  * <p>
  * Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
  * <p>

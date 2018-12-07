@@ -4,7 +4,6 @@ import com.learn.object.ListNode;
 
 /**
  * Created by Yinevg on 2018/11/7
- * https://leetcode.com/problems/add-two-numbers/description/
  * <p>
  * You are given two non-empty linked lists representing two
  * non-negative integers. The digits are stored in reverse order

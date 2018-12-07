@@ -2,7 +2,6 @@ package com.learn.medium;
 
 /**
  * Created by Yinevg on 2018/11/10
- * https://leetcode.com/problems/longest-palindromic-substring/description/
  * <p>
  * Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
  * <p>
