@@ -17,3 +17,4 @@
 21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[MergeTwoSortedLists.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/MergeTwoSortedLists.java)|||Easy
 22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[GenerateParentheses.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/GenerateParentheses.java)|||Medium
 24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[SwapNodesInPairs.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/SwapNodesInPairs.java)|||Medium
+26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[RemoveDuplicatesFromSortedArray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/RemoveDuplicatesFromSortedArray.java)|||Easy
