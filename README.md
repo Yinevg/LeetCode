@@ -18,3 +18,4 @@
 22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[GenerateParentheses.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/GenerateParentheses.java)|||Medium
 24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[SwapNodesInPairs.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/SwapNodesInPairs.java)|||Medium
 26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[RemoveDuplicatesFromSortedArray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/RemoveDuplicatesFromSortedArray.java)|||Easy
+27|[Remove Element](https://leetcode.com/problems/remove-element/)|[RemoveElement.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/RemoveElement.java)|||Easy
