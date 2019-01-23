@@ -22,3 +22,4 @@
 34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[FindFirstAndLastPositionOfElementInSortedArray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/FindFirstAndLastPositionOfElementInSortedArray.java)|||Medium
 35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[SearchInsertPosition.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/SearchInsertPosition.java)|||Easy
 39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[CombinationSum.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/CombinationSum.java)|||Medium
+43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[MultiplyStrings.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/MultiplyStrings.java)|||Medium
