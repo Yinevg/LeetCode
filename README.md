@@ -24,4 +24,5 @@
 39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[CombinationSum.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/CombinationSum.java)||Medium
 43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[MultiplyStrings.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/MultiplyStrings.java)||Medium
 46|[Permutations](https://leetcode.com/problems/permutations/)|[Permutations.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/Permutations.java)||Medium
-47|[PermutationsII](https://leetcode.com/problems/permutations-ii/)|[PermutationsII.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/PermutationsII.java)||Medium
+47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[PermutationsII.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/PermutationsII.java)||Medium
+48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[RotateImage.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/RotateImage.java)||Medium
