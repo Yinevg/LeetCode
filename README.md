@@ -27,3 +27,4 @@
 47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[PermutationsII.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/PermutationsII.java)||Medium
 48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[RotateImage.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/RotateImage.java)||Medium
 49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/)|[GroupAnagrams.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/GroupAnagrams.java)||Medium
+53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[MaximumSubarray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/MaximumSubarray.java)||Easy
