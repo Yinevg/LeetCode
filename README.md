@@ -30,3 +30,4 @@
 53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[MaximumSubarray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/MaximumSubarray.java)||Easy
 54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[SpiralMatrix.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/SpiralMatrix.java)||Medium
 55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JumpGame.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/JumpGame.java)||Medium
+58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[LengthOfLastWord.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/LengthOfLastWord.java)||Easy
