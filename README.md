@@ -33,3 +33,4 @@
 58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[LengthOfLastWord.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/LengthOfLastWord.java)||Easy
 59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[SpiralMatrixII.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/SpiralMatrixII.java)||Medium
 61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[RotateList.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/RotateList.java)||Medium
+62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[UniquePaths.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/UniquePaths.java)||Medium
