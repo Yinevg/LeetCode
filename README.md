@@ -37,3 +37,4 @@
 63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[UniquePathsII.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/UniquePathsII.java)||Medium
 64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[MinimumPathSum.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/MinimumPathSum.java)||Medium
 66|[Plus One](https://leetcode.com/problems/plus-one/)|[PlusOne.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/PlusOne.java)||Easy
+67|[Add Binary](https://leetcode.com/problems/add-binary/)|[AddBinary.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/AddBinary.java)||Easy
