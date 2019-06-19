@@ -39,3 +39,4 @@
 66|[Plus One](https://leetcode.com/problems/plus-one/)|[PlusOne.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/PlusOne.java)||Easy
 67|[Add Binary](https://leetcode.com/problems/add-binary/)|[AddBinary.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/AddBinary.java)||Easy
 70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[ClimbingStairs.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ClimbingStairs.java)||Easy
+74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[SearchA2DMatrix.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/SearchA2DMatrix.java)||Medium
