@@ -55,12 +55,19 @@ public class DuplicateZeros {
         }
     }
 
+    // 先得出不限制扩展后的数组，再将元素移动到正确的位置上
     public void duplicateZeros2(int[] A) {
         int n = A.length, i = 0, j = 0;
+        // j为不限制扩展的长度
         for (i = 0; i < n; ++i, ++j) {
             if (A[i] == 0)
                 ++j;
         }
+        /**
+         * 不限制扩展，则A[i]不为0的话，移动到扩展后的数组占一位，否则占两位，
+         * 占两位的话j需要减两次。当j在n里面时，i已经移动到实际扩展的元素上，
+         * 此时可以移动元素到正确的位置上
+         */
         for (i = i - 1; i >= 0; --i) {
             if (--j < n)
                 A[j] = A[i];
