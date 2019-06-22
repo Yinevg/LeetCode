@@ -44,4 +44,5 @@
 78|[Subsets](https://leetcode.com/problems/subsets/)|[Subsets.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/Subsets.java)||Medium
 79|[Word Search](https://leetcode.com/problems/word-search/)|[WordSearch.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/WordSearch.java)||Medium
 83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[RemoveDuplicatesFromSortedList.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/RemoveDuplicatesFromSortedList.java)||Easy
+88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[MergeSortedArray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/MergeSortedArray.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
