@@ -59,4 +59,5 @@
 108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[ConvertSortedArrayToBinarySearchTree.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ConvertSortedArrayToBinarySearchTree.java)||Easy
 109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[ConvertSortedListToBinarySearchTree.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/ConvertSortedListToBinarySearchTree.java)||Medium
 110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[BalancedBinaryTree.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/BalancedBinaryTree.java)||Easy
+112|[Path Sum](https://leetcode.com/problems/path-sum/)|[PathSum.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/PathSum.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
