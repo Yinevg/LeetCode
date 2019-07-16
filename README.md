@@ -64,4 +64,5 @@
 114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[FlattenBinaryTreeToLinkedList.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/FlattenBinaryTreeToLinkedList.java)||Medium
 129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[SumRootToLeafNumbers.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/SumRootToLeafNumbers.java)||Medium
 136|[Single Number](https://leetcode.com/problems/single-number/)|[SingleNumber.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/SingleNumber.java)||Easy
+160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[IntersectionOfTwoLinkedLists.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/IntersectionOfTwoLinkedLists.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
