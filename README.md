@@ -68,4 +68,5 @@
 167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[TwoSumII_InputArrayIsSorted.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/TwoSumII_InputArrayIsSorted.java)||Easy
 169|[Majority Element](https://leetcode.com/problems/majority-element/)|[MajorityElement.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/MajorityElement.java)||Easy
 173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[BSTIterator.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/BSTIterator.java)||Medium
+189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[RotateArray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/RotateArray.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
