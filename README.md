@@ -69,4 +69,5 @@
 169|[Majority Element](https://leetcode.com/problems/majority-element/)|[MajorityElement.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/MajorityElement.java)||Easy
 173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[BSTIterator.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/medium/BSTIterator.java)||Medium
 189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[RotateArray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/RotateArray.java)||Easy
+191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[NumberOf1Bits.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/NumberOf1Bits.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
