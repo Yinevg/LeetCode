@@ -73,4 +73,5 @@
 191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[NumberOf1Bits.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/NumberOf1Bits.java)||Easy
 203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[RemoveLinkedListElements.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/RemoveLinkedListElements.java)||Easy
 204|[Count Primes](https://leetcode.com/problems/count-primes/)|[CountPrimes.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/CountPrimes.java)||Easy
+205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[IsomorphicStrings.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/IsomorphicStrings.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
