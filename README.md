@@ -75,4 +75,5 @@
 204|[Count Primes](https://leetcode.com/problems/count-primes/)|[CountPrimes.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/CountPrimes.java)||Easy
 205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[IsomorphicStrings.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/IsomorphicStrings.java)||Easy
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[ReverseLinkedList.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ReverseLinkedList.java)||Easy
+217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[ContainsDuplicate.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ContainsDuplicate.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
