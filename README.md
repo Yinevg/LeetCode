@@ -76,4 +76,5 @@
 205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[IsomorphicStrings.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/IsomorphicStrings.java)||Easy
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[ReverseLinkedList.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ReverseLinkedList.java)||Easy
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[ContainsDuplicate.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ContainsDuplicate.java)||Easy
+226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[InvertBinaryTree.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/InvertBinaryTree.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
