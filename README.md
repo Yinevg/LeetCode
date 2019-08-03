@@ -79,4 +79,5 @@
 226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[InvertBinaryTree.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/InvertBinaryTree.java)||Easy
 231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[PowerOfTwo.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/PowerOfTwo.java)||Easy
 235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[LowestCommonAncestorOfABinarySearchTree.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/LowestCommonAncestorOfABinarySearchTree.java)||Easy
+237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[DeleteNodeInALinkedList.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DeleteNodeInALinkedList.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
