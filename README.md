@@ -87,4 +87,5 @@
 326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[PowerOfThree.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/PowerOfThree.java)||Easy
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[ReverseString.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/ReverseString.java)||Easy
 383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[RansomNote.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/RansomNote.java)||Easy
+387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[FirstUniqueCharacterInAString.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/FirstUniqueCharacterInAString.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
