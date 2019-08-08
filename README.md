@@ -91,4 +91,5 @@
 389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[FindTheDifference.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/FindTheDifference.java)||Easy
 404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[SumOfLeftLeaves.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/SumOfLeftLeaves.java)||Easy
 415|[Add Strings](https://leetcode.com/problems/add-strings/)|[AddStrings.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/AddStrings.java)||Easy
+442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[FindAllDuplicatesInAnArray.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/FindAllDuplicatesInAnArray.java)||Easy
 1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[DuplicateZeros.java](https://github.com/Yinevg/LeetCode/blob/master/Java/src/com/learn/easy/DuplicateZeros.java)||Easy
